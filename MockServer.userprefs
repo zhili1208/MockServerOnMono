@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{265D6F75-897C-48BA-A8B1-4F06749FC047}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MockServer/Program.cs">
+    <Files>
+      <File FileName="MockServer/Program.cs" Line="22" Column="19" />
+      <File FileName="MockServer/MockServer.cs" Line="64" Column="4" />
+      <File FileName="MockServer/PortServer.cs" Line="98" Column="76" />
+      <File FileName="MockServer/packages.config" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MockServer PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
