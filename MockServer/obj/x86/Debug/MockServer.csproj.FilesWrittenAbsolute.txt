@@ -1,0 +1,7 @@
+/Users/nugetciagent/MockServerOnMono/MockServer/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/nugetciagent/MockServerOnMono/MockServer/bin/Debug/MockServer.exe.mdb
+/Users/nugetciagent/MockServerOnMono/MockServer/bin/Debug/MockServer.exe
+/Users/nugetciagent/MockServerOnMono/MockServer/obj/x86/Debug/MockServer.exe
+/Users/nugetciagent/MockServerOnMono/MockServer/obj/x86/Debug/MockServer.exe.mdb
+/Users/nugetciagent/MockServerOnMono/MockServer/bin/Debug/Microsoft.Web.XmlTransform.dll
+/Users/nugetciagent/MockServerOnMono/MockServer/bin/Debug/NuGet.Core.dll

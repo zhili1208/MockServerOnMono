@@ -60,8 +60,7 @@ namespace MockServer
 		public void Start()
 		{
 			Listener.Start();
-			//_listenerTask = Task.Factory.StartNew(() => HandleRequest());
-			HandleRequest();
+			_listenerTask = Task.Factory.StartNew(() => HandleRequest());
 		}
 
 		/// <summary>
